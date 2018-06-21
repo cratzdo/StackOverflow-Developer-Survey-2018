@@ -1436,6 +1436,3 @@ survey %>% select(HoursOutside, ConvertedSalary, Employment) %>%
   theme(plot.title = element_text(face = "bold"))
   
 ```
-
-
-# More are on the way, please stay tuned!
